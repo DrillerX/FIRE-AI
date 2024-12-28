@@ -71,8 +71,8 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'false'
-global.packname = 'FIRE MD'
-global.author = 'OPAKSFIRE'
+global.packname = 'Glitch'
+global.author = 'Glitch'
 global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
 global.dygp = 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W'
@@ -90,7 +90,7 @@ global.error = '❌'
 global.xmoji = '🔥'
 
 global.multiplier = 69
-global.maxwarn = '3'
+global.maxwarn = '4'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
